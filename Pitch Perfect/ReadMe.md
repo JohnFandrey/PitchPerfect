@@ -1,14 +1,14 @@
-#Pitch Perfect#
+#Pitch Perfect
 
-###Introduction###
+##Introduction
 
 Pitch Perfect is iOS app that allows users to record an audio clip and then play that audio clip with six different sound effects.
 
-###Running Pitch Perfect###
+##Running Pitch Perfect
 
 To run Pitch Perfect a user simply needs to open the Pitch_Perfect.xcodeproj file in the Pitch Perfect project folder.  This file can be opened in Xcode.  Once the file is open the project can be run by building and running the project in Xcode.  
 
-###Using Pitch Perfect###
+##Using Pitch Perfect
 
 **The Record Screen**
 
@@ -22,6 +22,6 @@ On the playback screen there are six icons for various sound effects that can be
 
 The Playback screen also has a 'back' button at the top of the navigation bar.  When pressed, the back button will take the user back to the Record Screen.  
 
-###Conclusion###
+##Conclusion
 
 Thank you for trying out Pitch Perfect.  I hope you enjoy the app.  
